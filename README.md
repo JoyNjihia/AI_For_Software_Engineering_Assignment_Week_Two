@@ -100,8 +100,10 @@ This project demonstrates the power of **machine learning** in tracking and prom
 
 ## 🔗 GitHub Repository
 
-[ ]
+(https://github.com/JoyNjihia/AI_For_Software_Engineering_Assignment_Week_Two.git)
 
 ---
 
 ## 📂 Repository Structure 
+
+
