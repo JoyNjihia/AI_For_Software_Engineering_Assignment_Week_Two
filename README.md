@@ -93,13 +93,14 @@ This project demonstrates the power of **machine learning** in tracking and prom
 1. Joyce Njihia - nyamburanjihia@gmail.com
 2.  Gospel Arinze - gospelarinzestuff@gmail.com
 3.Ling Mukiri - lingmukiri13@gmail.com
-4.
-5.
+4. Juma Calvin - jumacavin28@gmail.com
+5.EstherTrizar  - esthertrizar@gmail.com
+
 ---
 
 ## 🔗 GitHub Repository
 
-[👉 Add your GitHub repo link here]
+[ ]
 
 ---
 
