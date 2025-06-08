@@ -1,1 +1,26 @@
+# SDG17 ML Collaboration Project Requirements
+# Data Processing and Analysis
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
 
+# Machine Learning
+scikit-learn>=1.1.0
+scipy>=1.9.0
+
+# Jupyter Notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional utilities
+plotly>=5.0.0
+openpyxl>=3.0.0
+
+# Optional: Advanced ML libraries
+# xgboost>=1.6.0
+# lightgbm>=3.3.0
+# catboost>=1.0.0
+
+# Development tools
+python-dotenv>=0.19.0
